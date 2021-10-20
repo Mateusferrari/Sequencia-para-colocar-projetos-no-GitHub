@@ -1,0 +1,24 @@
+Criar repositóri novo no GitHub
+>github
+>new repository
+>nome, descrição...
+>add a readme
+>create repositoy
+
+Baixar e trabalhar com o repositório na minha maquina:
+
+>code
+>copiar o link
+>entrar no git bash
+>git git clone .colar o link.
+>git status
+
+faço as edições etc..
+colocando no GitHub novamente
+
+>git add .
+>git commit -m ".............."
+>git status
+>git push origin main
+
+
